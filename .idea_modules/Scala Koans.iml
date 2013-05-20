@@ -27,6 +27,8 @@
     <orderEntry type="library" name="scala-library" level="project" />
     <orderEntry type="library" scope="TEST" name="junit" level="project" />
     <orderEntry type="library" scope="TEST" name="scalatest" level="project" />
+    <orderEntry type="library" name="scala-actors" level="project" />
+    <orderEntry type="library" name="graph-core" level="project" />
   </component>
 </module>
 
