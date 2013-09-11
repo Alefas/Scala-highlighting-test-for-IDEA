@@ -1,5 +1,5 @@
 package issues
 
-class SCL6064 {
+class SCL6046 {
   val t = new javax.swing.TransferHandler {  }
 }
