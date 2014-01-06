@@ -5,7 +5,7 @@ import scalax.file.Path
 object ResolutionTest {
   def test( path: Path ) = path / "ham.txt"
 
-  class Test( root: Path ) {
+  class Test( val root: Path ) {
     val child = root / "eggs.txt"
   }
 
